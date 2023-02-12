@@ -1,0 +1,3 @@
+# Knowledge check: Update and Delete
+
+![screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-hlc0w-self-review-record-deletion-attempt-2023-01-21-20_16_04.png](Knowledge%20check%20Update%20and%20Delete%209a22800c6ab9403689758f1608e36e7d/screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-hlc0w-self-review-record-deletion-attempt-2023-01-21-20_16_04.png)

@@ -1,0 +1,3 @@
+# Self-review: Create database, create table and insert data
+
+![screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-vVrm3-self-review-create-database-create-table-and-insert-data-attempt-2023-01-21-14_53_04.png](Self-review%20Create%20database,%20create%20table%20and%20inse%207f14f1b64ebd43efb704ba016bcdd525/screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-vVrm3-self-review-create-database-create-table-and-insert-data-attempt-2023-01-21-14_53_04.png)

@@ -1,0 +1,3 @@
+# Self-review: Database schema examples
+
+![screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-uSv0P-self-review-database-schema-examples-attempt-2023-01-22-21_58_56.png](Self-review%20Database%20schema%20examples%20e95ad68c1f8e4f8e9d7e53b6bf63430f/screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-uSv0P-self-review-database-schema-examples-attempt-2023-01-22-21_58_56.png)

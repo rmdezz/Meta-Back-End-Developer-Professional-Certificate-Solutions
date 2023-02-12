@@ -1,0 +1,3 @@
+# Knowledge Check: Database Configuration
+
+![screencapture-coursera-org-learn-django-web-framework-quiz-AMICd-knowledge-check-database-configuration-view-attempt-2023-02-12-10_36_45.png](Knowledge%20Check%20Database%20Configuration%204781504f349d484580660438dbbf72ab/screencapture-coursera-org-learn-django-web-framework-quiz-AMICd-knowledge-check-database-configuration-view-attempt-2023-02-12-10_36_45.png)

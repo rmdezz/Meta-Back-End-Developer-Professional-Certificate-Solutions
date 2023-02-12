@@ -1,0 +1,3 @@
+# Module quiz: SQL operators and sorting and filtering data
+
+![screencapture-coursera-org-learn-intro-to-databases-back-end-development-exam-ZMAJY-module-quiz-sql-operators-and-sorting-and-filtering-data-attempt-2023-01-22-12_51_59.png](Module%20quiz%20SQL%20operators%20and%20sorting%20and%20filterin%20173566de48b64a27b2c6ce498d007df0/screencapture-coursera-org-learn-intro-to-databases-back-end-development-exam-ZMAJY-module-quiz-sql-operators-and-sorting-and-filtering-data-attempt-2023-01-22-12_51_59.png)

@@ -1,0 +1,3 @@
+# Self review: Working with default values
+
+![screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-TEhqE-self-review-working-with-default-values-view-attempt-2023-01-21-13_32_42.png](Self%20review%20Working%20with%20default%20values%2022bf88126c254c0d8aec2535aed7d9a6/screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-TEhqE-self-review-working-with-default-values-view-attempt-2023-01-21-13_32_42.png)

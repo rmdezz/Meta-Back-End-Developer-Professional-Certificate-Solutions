@@ -1,0 +1,3 @@
+# Knowledge Check: Database Structure
+
+![screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-6eBa7-knowledge-check-database-structure-attempt-2023-01-21-01_39_41.png](Knowledge%20Check%20Database%20Structure%204aeb25ce89da4aa4b3bc04c43634356f/screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-6eBa7-knowledge-check-database-structure-attempt-2023-01-21-01_39_41.png)

@@ -1,0 +1,3 @@
+# Knowledge check: Working with Templates
+
+![screencapture-coursera-org-learn-django-web-framework-quiz-sO7IX-knowledge-check-working-with-templates-view-attempt-2023-02-12-10_40_30.png](Knowledge%20check%20Working%20with%20Templates%2047ada09fc8194dbb98e2f26080a1185b/screencapture-coursera-org-learn-django-web-framework-quiz-sO7IX-knowledge-check-working-with-templates-view-attempt-2023-02-12-10_40_30.png)

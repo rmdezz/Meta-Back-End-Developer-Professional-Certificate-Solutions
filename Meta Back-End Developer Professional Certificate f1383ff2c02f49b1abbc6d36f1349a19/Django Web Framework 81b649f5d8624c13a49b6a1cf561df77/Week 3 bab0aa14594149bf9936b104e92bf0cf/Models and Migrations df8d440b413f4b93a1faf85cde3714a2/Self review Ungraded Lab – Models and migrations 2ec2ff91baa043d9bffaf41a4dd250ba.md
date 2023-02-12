@@ -1,0 +1,3 @@
+# Self review: Ungraded Lab – Models and migrations
+
+![screencapture-coursera-org-learn-django-web-framework-quiz-9XMDz-self-review-ungraded-lab-models-and-migrations-view-attempt-2023-02-12-10_32_45.png](Self%20review%20Ungraded%20Lab%20%E2%80%93%20Models%20and%20migrations%202ec2ff91baa043d9bffaf41a4dd250ba/screencapture-coursera-org-learn-django-web-framework-quiz-9XMDz-self-review-ungraded-lab-models-and-migrations-view-attempt-2023-02-12-10_32_45.png)

@@ -1,0 +1,3 @@
+# Readiness Check: Did you add unit tests?
+
+![screencapture-coursera-org-learn-back-end-developer-capstone-quiz-ydT6T-readiness-check-did-you-add-unit-tests-view-attempt-2023-02-12-07_45_37.png](Readiness%20Check%20Did%20you%20add%20unit%20tests%20a342ff8a589943499c55036fed29a359/screencapture-coursera-org-learn-back-end-developer-capstone-quiz-ydT6T-readiness-check-did-you-add-unit-tests-view-attempt-2023-02-12-07_45_37.png)

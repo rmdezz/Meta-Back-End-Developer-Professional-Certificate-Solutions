@@ -1,0 +1,3 @@
+# Knowledge check: Database Schema
+
+![screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-EP3Aj-knowledge-check-database-schema-attempt-2023-01-22-15_16_42.png](Knowledge%20check%20Database%20Schema%20e48875c147c244848f2dcac919213ce5/screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-EP3Aj-knowledge-check-database-schema-attempt-2023-01-22-15_16_42.png)

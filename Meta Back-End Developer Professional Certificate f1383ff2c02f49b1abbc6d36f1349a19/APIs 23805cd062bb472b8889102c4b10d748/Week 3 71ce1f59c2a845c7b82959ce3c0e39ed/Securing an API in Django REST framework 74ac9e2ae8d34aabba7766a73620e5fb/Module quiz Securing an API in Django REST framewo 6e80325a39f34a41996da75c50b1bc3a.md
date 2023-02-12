@@ -1,0 +1,3 @@
+# Module quiz: Securing an API in Django REST framework
+
+![screencapture-coursera-org-learn-apis-exam-cAEk2-module-quiz-securing-an-api-in-django-rest-framework-view-attempt-2023-02-12-09_57_35.png](Module%20quiz%20Securing%20an%20API%20in%20Django%20REST%20framewo%206e80325a39f34a41996da75c50b1bc3a/screencapture-coursera-org-learn-apis-exam-cAEk2-module-quiz-securing-an-api-in-django-rest-framework-view-attempt-2023-02-12-09_57_35.png)

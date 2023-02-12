@@ -1,0 +1,3 @@
+# Knowledge check: Handle errors in Views
+
+![screencapture-coursera-org-learn-django-web-framework-quiz-bNrDG-knowledge-check-handle-errors-in-views-view-attempt-2023-02-12-10_30_09.png](Knowledge%20check%20Handle%20errors%20in%20Views%20aab64cb163a14d939487224265d715e3/screencapture-coursera-org-learn-django-web-framework-quiz-bNrDG-knowledge-check-handle-errors-in-views-view-attempt-2023-02-12-10_30_09.png)

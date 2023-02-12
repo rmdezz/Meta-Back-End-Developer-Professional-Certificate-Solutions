@@ -1,0 +1,3 @@
+# Readiness Check: Did you set up the MySQL connection?
+
+![screencapture-coursera-org-learn-back-end-developer-capstone-quiz-KTpXn-readiness-check-did-you-set-up-the-mysql-connection-view-attempt-2023-02-12-07_41_04.png](Readiness%20Check%20Did%20you%20set%20up%20the%20MySQL%20connectio%20be2523ff931b4db7a92cccaa956c0ce9/screencapture-coursera-org-learn-back-end-developer-capstone-quiz-KTpXn-readiness-check-did-you-set-up-the-mysql-connection-view-attempt-2023-02-12-07_41_04.png)

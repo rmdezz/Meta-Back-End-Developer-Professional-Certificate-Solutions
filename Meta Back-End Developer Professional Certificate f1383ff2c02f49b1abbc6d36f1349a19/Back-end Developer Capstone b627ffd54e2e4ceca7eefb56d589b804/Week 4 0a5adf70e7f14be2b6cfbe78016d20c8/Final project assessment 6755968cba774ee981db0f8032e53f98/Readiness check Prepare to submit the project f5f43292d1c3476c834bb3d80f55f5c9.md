@@ -1,0 +1,3 @@
+# Readiness check. Prepare to submit the project
+
+![screencapture-coursera-org-learn-back-end-developer-capstone-quiz-R4NZc-readiness-check-prepare-to-submit-the-project-view-attempt-2023-02-12-07_49_20.png](Readiness%20check%20Prepare%20to%20submit%20the%20project%20f5f43292d1c3476c834bb3d80f55f5c9/screencapture-coursera-org-learn-back-end-developer-capstone-quiz-R4NZc-readiness-check-prepare-to-submit-the-project-view-attempt-2023-02-12-07_49_20.png)

@@ -1,0 +1,3 @@
+# Readiness check: Display the Little Lemon available booking times
+
+![screencapture-coursera-org-learn-the-full-stack-quiz-RezaH-readiness-check-display-the-little-lemon-available-booking-times-view-attempt-2023-02-12-08_08_24.png](Readiness%20check%20Display%20the%20Little%20Lemon%20available%20b1f69c98ea8f4485a4d337717b44d41f/screencapture-coursera-org-learn-the-full-stack-quiz-RezaH-readiness-check-display-the-little-lemon-available-booking-times-view-attempt-2023-02-12-08_08_24.png)

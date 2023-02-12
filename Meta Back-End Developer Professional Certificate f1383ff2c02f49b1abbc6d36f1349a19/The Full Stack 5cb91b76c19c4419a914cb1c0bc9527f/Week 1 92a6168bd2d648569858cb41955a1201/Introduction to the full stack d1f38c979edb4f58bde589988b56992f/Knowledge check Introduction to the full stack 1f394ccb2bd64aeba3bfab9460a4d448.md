@@ -1,0 +1,3 @@
+# Knowledge check: Introduction to the full stack
+
+![screencapture-coursera-org-learn-the-full-stack-quiz-aGpSu-knowledge-check-introduction-to-the-full-stack-view-attempt-2023-02-12-07_52_28.png](Knowledge%20check%20Introduction%20to%20the%20full%20stack%201f394ccb2bd64aeba3bfab9460a4d448/screencapture-coursera-org-learn-the-full-stack-quiz-aGpSu-knowledge-check-introduction-to-the-full-stack-view-attempt-2023-02-12-07_52_28.png)

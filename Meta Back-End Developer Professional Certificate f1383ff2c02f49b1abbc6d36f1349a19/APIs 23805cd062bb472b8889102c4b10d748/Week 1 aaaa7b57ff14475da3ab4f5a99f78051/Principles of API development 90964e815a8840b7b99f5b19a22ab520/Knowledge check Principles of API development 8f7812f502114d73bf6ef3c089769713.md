@@ -1,0 +1,3 @@
+# Knowledge check: Principles of API development
+
+![screencapture-coursera-org-learn-apis-quiz-9HxZr-knowledge-check-principles-of-api-development-view-attempt-2023-02-12-09_51_54.png](Knowledge%20check%20Principles%20of%20API%20development%208f7812f502114d73bf6ef3c089769713/screencapture-coursera-org-learn-apis-quiz-9HxZr-knowledge-check-principles-of-api-development-view-attempt-2023-02-12-09_51_54.png)

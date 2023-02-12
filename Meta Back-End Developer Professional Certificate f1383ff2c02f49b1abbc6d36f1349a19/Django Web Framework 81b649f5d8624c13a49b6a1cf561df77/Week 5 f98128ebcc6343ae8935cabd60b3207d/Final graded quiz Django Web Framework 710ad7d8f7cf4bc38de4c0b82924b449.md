@@ -1,0 +1,3 @@
+# Final graded quiz: Django Web Framework
+
+![screencapture-coursera-org-learn-django-web-framework-exam-bOtB6-final-graded-quiz-django-web-framework-view-attempt-2023-02-12-11_03_11.png](Final%20graded%20quiz%20Django%20Web%20Framework%20710ad7d8f7cf4bc38de4c0b82924b449/screencapture-coursera-org-learn-django-web-framework-exam-bOtB6-final-graded-quiz-django-web-framework-view-attempt-2023-02-12-11_03_11.png)

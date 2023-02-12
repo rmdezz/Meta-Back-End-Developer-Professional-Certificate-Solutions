@@ -1,0 +1,3 @@
+# Readiness Check: Did you set up the Django project?
+
+![screencapture-coursera-org-learn-back-end-developer-capstone-quiz-jf1of-readiness-check-did-you-set-up-the-django-project-view-attempt-2023-02-12-07_36_49.png](Readiness%20Check%20Did%20you%20set%20up%20the%20Django%20project%2091fa5308a103494b892783b74bad4f7e/screencapture-coursera-org-learn-back-end-developer-capstone-quiz-jf1of-readiness-check-did-you-set-up-the-django-project-view-attempt-2023-02-12-07_36_49.png)

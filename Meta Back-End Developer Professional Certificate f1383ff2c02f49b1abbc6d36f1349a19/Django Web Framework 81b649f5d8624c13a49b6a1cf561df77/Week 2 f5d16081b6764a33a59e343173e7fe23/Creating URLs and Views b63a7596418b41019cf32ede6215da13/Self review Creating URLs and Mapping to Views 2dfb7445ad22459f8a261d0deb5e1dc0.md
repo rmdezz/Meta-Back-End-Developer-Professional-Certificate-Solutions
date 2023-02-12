@@ -1,0 +1,3 @@
+# Self review: Creating URLs and Mapping to Views
+
+![screencapture-coursera-org-learn-django-web-framework-quiz-2znnG-self-review-creating-urls-and-mapping-to-views-view-attempt-2023-02-12-10_29_41.png](Self%20review%20Creating%20URLs%20and%20Mapping%20to%20Views%202dfb7445ad22459f8a261d0deb5e1dc0/screencapture-coursera-org-learn-django-web-framework-quiz-2znnG-self-review-creating-urls-and-mapping-to-views-view-attempt-2023-02-12-10_29_41.png)

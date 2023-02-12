@@ -1,0 +1,3 @@
+# Readiness check: Connect the Little Lemon back-end to MySQL
+
+![screencapture-coursera-org-learn-the-full-stack-quiz-DOXpd-readiness-check-connect-the-little-lemon-back-end-to-mysql-view-attempt-2023-02-12-08_07_36.png](Readiness%20check%20Connect%20the%20Little%20Lemon%20back-end%20%2031e62317fdd94c95bfcf04bff716fc20/screencapture-coursera-org-learn-the-full-stack-quiz-DOXpd-readiness-check-connect-the-little-lemon-back-end-to-mysql-view-attempt-2023-02-12-08_07_36.png)

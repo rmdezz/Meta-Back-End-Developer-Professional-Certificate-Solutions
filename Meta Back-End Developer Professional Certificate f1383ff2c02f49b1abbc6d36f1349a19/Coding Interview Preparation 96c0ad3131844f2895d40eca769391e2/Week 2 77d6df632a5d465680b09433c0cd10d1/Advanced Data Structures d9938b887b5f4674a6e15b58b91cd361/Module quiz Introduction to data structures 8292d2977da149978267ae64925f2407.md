@@ -1,0 +1,3 @@
+# Module quiz: Introduction to data structures
+
+![screencapture-coursera-org-learn-coding-interview-preparation-exam-ruXvT-module-quiz-introduction-to-data-structures-view-attempt-2023-02-12-07_30_10.png](Module%20quiz%20Introduction%20to%20data%20structures%208292d2977da149978267ae64925f2407/screencapture-coursera-org-learn-coding-interview-preparation-exam-ruXvT-module-quiz-introduction-to-data-structures-view-attempt-2023-02-12-07_30_10.png)

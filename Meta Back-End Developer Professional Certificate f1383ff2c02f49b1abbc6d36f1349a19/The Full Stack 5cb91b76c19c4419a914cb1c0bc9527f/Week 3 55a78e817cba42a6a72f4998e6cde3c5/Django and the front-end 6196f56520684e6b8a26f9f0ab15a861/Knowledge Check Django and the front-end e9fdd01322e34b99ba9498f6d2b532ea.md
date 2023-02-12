@@ -1,0 +1,3 @@
+# Knowledge Check: Django and the front-end
+
+![screencapture-coursera-org-learn-the-full-stack-quiz-CR0z2-knowledge-check-django-and-the-front-end-view-attempt-2023-02-12-07_58_36.png](Knowledge%20Check%20Django%20and%20the%20front-end%20e9fdd01322e34b99ba9498f6d2b532ea/screencapture-coursera-org-learn-the-full-stack-quiz-CR0z2-knowledge-check-django-and-the-front-end-view-attempt-2023-02-12-07_58_36.png)

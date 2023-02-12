@@ -1,0 +1,3 @@
+# Self review: Mapping URLs with Params
+
+![screencapture-coursera-org-learn-django-web-framework-quiz-DHSq9-self-review-mapping-urls-with-params-view-attempt-2023-02-12-10_24_27.png](Self%20review%20Mapping%20URLs%20with%20Params%2040d4de71aa434f6fb678053bb58c6a10/screencapture-coursera-org-learn-django-web-framework-quiz-DHSq9-self-review-mapping-urls-with-params-view-attempt-2023-02-12-10_24_27.png)

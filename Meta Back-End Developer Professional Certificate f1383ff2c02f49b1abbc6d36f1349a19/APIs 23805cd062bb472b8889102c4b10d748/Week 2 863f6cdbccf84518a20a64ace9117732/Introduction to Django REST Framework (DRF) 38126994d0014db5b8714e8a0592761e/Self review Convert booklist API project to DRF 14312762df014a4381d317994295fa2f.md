@@ -1,0 +1,3 @@
+# Self review: Convert booklist API project to DRF
+
+![screencapture-coursera-org-learn-apis-quiz-ZeOxr-self-review-convert-booklist-api-project-to-drf-view-attempt-2023-02-12-09_54_12.png](Self%20review%20Convert%20booklist%20API%20project%20to%20DRF%2014312762df014a4381d317994295fa2f/screencapture-coursera-org-learn-apis-quiz-ZeOxr-self-review-convert-booklist-api-project-to-drf-view-attempt-2023-02-12-09_54_12.png)

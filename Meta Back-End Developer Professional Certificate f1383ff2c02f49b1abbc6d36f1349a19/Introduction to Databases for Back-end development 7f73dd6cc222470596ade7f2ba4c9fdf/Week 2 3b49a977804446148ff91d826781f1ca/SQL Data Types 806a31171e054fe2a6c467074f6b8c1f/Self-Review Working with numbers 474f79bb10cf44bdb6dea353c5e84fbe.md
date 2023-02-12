@@ -1,0 +1,3 @@
+# Self-Review: Working with numbers
+
+![screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-6ujUm-self-review-working-with-numbers-attempt-2023-01-21-11_18_49.png](Self-Review%20Working%20with%20numbers%20474f79bb10cf44bdb6dea353c5e84fbe/screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-6ujUm-self-review-working-with-numbers-attempt-2023-01-21-11_18_49.png)

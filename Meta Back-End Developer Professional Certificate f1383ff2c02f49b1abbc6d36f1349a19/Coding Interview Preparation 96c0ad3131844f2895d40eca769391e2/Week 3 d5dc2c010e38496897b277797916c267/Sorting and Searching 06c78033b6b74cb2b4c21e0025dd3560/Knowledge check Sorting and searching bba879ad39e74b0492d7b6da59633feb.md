@@ -1,0 +1,3 @@
+# Knowledge check: Sorting and searching
+
+![screencapture-coursera-org-learn-coding-interview-preparation-quiz-86eUz-knowledge-check-sorting-and-searching-view-attempt-2023-02-12-07_30_55.png](Knowledge%20check%20Sorting%20and%20searching%20bba879ad39e74b0492d7b6da59633feb/screencapture-coursera-org-learn-coding-interview-preparation-quiz-86eUz-knowledge-check-sorting-and-searching-view-attempt-2023-02-12-07_30_55.png)

@@ -1,0 +1,3 @@
+# Readiness Check: Did you set up the table booking API?
+
+![screencapture-coursera-org-learn-back-end-developer-capstone-quiz-YeIV4-readiness-check-did-you-set-up-the-table-booking-api-view-attempt-2023-02-12-07_42_42.png](Readiness%20Check%20Did%20you%20set%20up%20the%20table%20booking%20A%20a46d13dfe41d4fa49208a42706fed441/screencapture-coursera-org-learn-back-end-developer-capstone-quiz-YeIV4-readiness-check-did-you-set-up-the-table-booking-api-view-attempt-2023-02-12-07_42_42.png)

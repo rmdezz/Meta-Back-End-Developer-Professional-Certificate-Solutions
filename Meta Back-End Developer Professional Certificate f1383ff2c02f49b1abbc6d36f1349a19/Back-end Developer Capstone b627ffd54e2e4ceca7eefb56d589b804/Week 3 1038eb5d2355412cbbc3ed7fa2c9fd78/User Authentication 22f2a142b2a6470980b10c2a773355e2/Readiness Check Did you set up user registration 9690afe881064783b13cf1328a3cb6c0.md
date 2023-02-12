@@ -1,0 +1,3 @@
+# Readiness Check: Did you set up user registration?
+
+![screencapture-coursera-org-learn-back-end-developer-capstone-quiz-zgZN6-readiness-check-did-you-set-up-user-registration-view-attempt-2023-02-12-07_44_19.png](Readiness%20Check%20Did%20you%20set%20up%20user%20registration%209690afe881064783b13cf1328a3cb6c0/screencapture-coursera-org-learn-back-end-developer-capstone-quiz-zgZN6-readiness-check-did-you-set-up-user-registration-view-attempt-2023-02-12-07_44_19.png)

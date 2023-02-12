@@ -1,0 +1,3 @@
+# Readiness Check: Did you secure the table booking API?
+
+![screencapture-coursera-org-learn-back-end-developer-capstone-quiz-kTXLG-readiness-check-did-you-secure-the-table-booking-api-view-attempt-2023-02-12-07_44_40.png](Readiness%20Check%20Did%20you%20secure%20the%20table%20booking%20A%20483d4345da2e40e59a5fb051088b47a9/screencapture-coursera-org-learn-back-end-developer-capstone-quiz-kTXLG-readiness-check-did-you-secure-the-table-booking-api-view-attempt-2023-02-12-07_44_40.png)

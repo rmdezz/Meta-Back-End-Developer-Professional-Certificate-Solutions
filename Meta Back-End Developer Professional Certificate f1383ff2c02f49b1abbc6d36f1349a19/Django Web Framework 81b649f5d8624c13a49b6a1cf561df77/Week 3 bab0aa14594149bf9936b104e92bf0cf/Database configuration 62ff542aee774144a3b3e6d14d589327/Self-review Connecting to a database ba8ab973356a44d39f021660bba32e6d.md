@@ -1,0 +1,3 @@
+# Self-review: Connecting to a database
+
+![screencapture-coursera-org-learn-django-web-framework-quiz-T2mHa-self-review-connecting-to-a-database-view-attempt-2023-02-12-10_36_25.png](Self-review%20Connecting%20to%20a%20database%20ba8ab973356a44d39f021660bba32e6d/screencapture-coursera-org-learn-django-web-framework-quiz-T2mHa-self-review-connecting-to-a-database-view-attempt-2023-02-12-10_36_25.png)

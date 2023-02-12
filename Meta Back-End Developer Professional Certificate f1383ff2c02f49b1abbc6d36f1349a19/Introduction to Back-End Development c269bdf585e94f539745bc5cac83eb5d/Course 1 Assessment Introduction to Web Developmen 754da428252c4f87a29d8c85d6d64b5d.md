@@ -1,0 +1,3 @@
+# Course 1 Assessment: Introduction to Web Development
+
+![screencapture-coursera-org-learn-introduction-to-back-end-development-exam-DVDCf-course-1-assessment-introduction-to-web-development-view-attempt-2023-02-12-11_10_41.png](Course%201%20Assessment%20Introduction%20to%20Web%20Developmen%20754da428252c4f87a29d8c85d6d64b5d/screencapture-coursera-org-learn-introduction-to-back-end-development-exam-DVDCf-course-1-assessment-introduction-to-web-development-view-attempt-2023-02-12-11_10_41.png)

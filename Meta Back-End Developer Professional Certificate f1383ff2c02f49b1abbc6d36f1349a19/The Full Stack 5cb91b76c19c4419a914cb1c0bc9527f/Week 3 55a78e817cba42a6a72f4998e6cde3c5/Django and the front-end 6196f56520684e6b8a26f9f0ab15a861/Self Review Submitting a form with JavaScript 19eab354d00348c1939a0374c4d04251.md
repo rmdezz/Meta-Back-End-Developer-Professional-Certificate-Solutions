@@ -1,0 +1,3 @@
+# Self Review: Submitting a form with JavaScript
+
+![screencapture-coursera-org-learn-the-full-stack-quiz-WqyV6-self-review-submitting-a-form-with-javascript-view-attempt-2023-02-12-07_58_18.png](Self%20Review%20Submitting%20a%20form%20with%20JavaScript%2019eab354d00348c1939a0374c4d04251/screencapture-coursera-org-learn-the-full-stack-quiz-WqyV6-self-review-submitting-a-form-with-javascript-view-attempt-2023-02-12-07_58_18.png)

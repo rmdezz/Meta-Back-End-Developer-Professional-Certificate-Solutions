@@ -1,0 +1,3 @@
+# Module Quiz: Project Functionality
+
+![screencapture-coursera-org-learn-back-end-developer-capstone-exam-Fvi88-module-quiz-project-functionality-view-attempt-2023-02-12-07_43_36.png](Module%20Quiz%20Project%20Functionality%203b78c7a6378d4217b29a4934d8d0c199/screencapture-coursera-org-learn-back-end-developer-capstone-exam-Fvi88-module-quiz-project-functionality-view-attempt-2023-02-12-07_43_36.png)

@@ -1,0 +1,3 @@
+# Readiness Check: Did you set up the static content routes?
+
+![screencapture-coursera-org-learn-back-end-developer-capstone-quiz-ZOWf9-readiness-check-did-you-set-up-the-static-content-routes-view-attempt-2023-02-12-07_38_41.png](Readiness%20Check%20Did%20you%20set%20up%20the%20static%20content%20%20ccedd86b0d254fe9b023e5f26847811a/screencapture-coursera-org-learn-back-end-developer-capstone-quiz-ZOWf9-readiness-check-did-you-set-up-the-static-content-routes-view-attempt-2023-02-12-07_38_41.png)

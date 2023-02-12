@@ -1,0 +1,3 @@
+# Self-review: ORDER BY and WHERE
+
+![screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-7wmqV-self-review-order-by-and-where-attempt-2023-01-22-00_00_00.png](Self-review%20ORDER%20BY%20and%20WHERE%2023ca7a2029e94c44843769d6eae0f7b6/screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-7wmqV-self-review-order-by-and-where-attempt-2023-01-22-00_00_00.png)

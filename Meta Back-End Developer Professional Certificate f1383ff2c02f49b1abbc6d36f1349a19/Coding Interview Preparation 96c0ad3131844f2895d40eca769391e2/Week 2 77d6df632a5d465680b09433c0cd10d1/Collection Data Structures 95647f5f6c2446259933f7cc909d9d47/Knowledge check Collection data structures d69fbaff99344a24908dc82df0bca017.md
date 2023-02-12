@@ -1,0 +1,3 @@
+# Knowledge check: Collection data structures
+
+![screencapture-coursera-org-learn-coding-interview-preparation-quiz-997Qo-knowledge-check-collection-data-structures-view-attempt-2023-02-12-07_28_22.png](Knowledge%20check%20Collection%20data%20structures%20d69fbaff99344a24908dc82df0bca017/screencapture-coursera-org-learn-coding-interview-preparation-quiz-997Qo-knowledge-check-collection-data-structures-view-attempt-2023-02-12-07_28_22.png)

@@ -1,0 +1,3 @@
+# Module quiz: Introduction to full stack
+
+![screencapture-coursera-org-learn-the-full-stack-exam-sQR1g-module-quiz-introduction-to-the-full-stack-view-attempt-2023-02-12-07_52_59.png](Module%20quiz%20Introduction%20to%20full%20stack%2099d1bdc8e13f4116b806d47d42c71c9f/screencapture-coursera-org-learn-the-full-stack-exam-sQR1g-module-quiz-introduction-to-the-full-stack-view-attempt-2023-02-12-07_52_59.png)

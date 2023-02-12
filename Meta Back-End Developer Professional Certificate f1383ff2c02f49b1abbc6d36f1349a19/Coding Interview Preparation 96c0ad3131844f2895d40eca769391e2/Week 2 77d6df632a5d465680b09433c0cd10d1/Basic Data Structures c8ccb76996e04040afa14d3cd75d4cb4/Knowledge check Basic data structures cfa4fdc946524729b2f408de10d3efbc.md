@@ -1,0 +1,3 @@
+# Knowledge check: Basic data structures
+
+![screencapture-coursera-org-learn-coding-interview-preparation-quiz-E8GLu-knowledge-check-basic-data-structures-view-attempt-2023-02-12-07_27_39.png](Knowledge%20check%20Basic%20data%20structures%20cfa4fdc946524729b2f408de10d3efbc/screencapture-coursera-org-learn-coding-interview-preparation-quiz-E8GLu-knowledge-check-basic-data-structures-view-attempt-2023-02-12-07_27_39.png)

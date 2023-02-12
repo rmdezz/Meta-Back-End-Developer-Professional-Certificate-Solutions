@@ -1,0 +1,3 @@
+# Readiness check: Set up a Little Lemon booking API
+
+![screencapture-coursera-org-learn-the-full-stack-quiz-YpiDE-readiness-check-set-up-a-little-lemon-booking-api-view-attempt-2023-02-12-08_07_57.png](Readiness%20check%20Set%20up%20a%20Little%20Lemon%20booking%20API%2012ac6cb2fba94cc08e44a4a2f42a5ffa/screencapture-coursera-org-learn-the-full-stack-quiz-YpiDE-readiness-check-set-up-a-little-lemon-booking-api-view-attempt-2023-02-12-08_07_57.png)

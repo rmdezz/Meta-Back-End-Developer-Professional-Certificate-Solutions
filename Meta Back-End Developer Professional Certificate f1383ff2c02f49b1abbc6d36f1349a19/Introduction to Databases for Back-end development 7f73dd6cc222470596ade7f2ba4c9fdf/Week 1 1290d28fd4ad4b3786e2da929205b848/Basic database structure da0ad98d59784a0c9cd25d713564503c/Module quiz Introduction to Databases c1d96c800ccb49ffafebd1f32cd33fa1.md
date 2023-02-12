@@ -1,0 +1,3 @@
+# Module quiz: Introduction to Databases
+
+![screencapture-coursera-org-learn-intro-to-databases-back-end-development-exam-kQuwT-module-quiz-introduction-to-databases-attempt-2023-01-21-01_44_43.png](Module%20quiz%20Introduction%20to%20Databases%20c1d96c800ccb49ffafebd1f32cd33fa1/screencapture-coursera-org-learn-intro-to-databases-back-end-development-exam-kQuwT-module-quiz-introduction-to-databases-attempt-2023-01-21-01_44_43.png)

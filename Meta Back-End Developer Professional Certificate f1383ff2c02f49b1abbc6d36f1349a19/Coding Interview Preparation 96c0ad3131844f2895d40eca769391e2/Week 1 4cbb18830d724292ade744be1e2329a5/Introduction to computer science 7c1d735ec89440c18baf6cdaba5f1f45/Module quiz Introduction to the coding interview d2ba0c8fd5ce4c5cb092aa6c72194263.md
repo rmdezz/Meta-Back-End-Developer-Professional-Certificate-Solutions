@@ -1,0 +1,3 @@
+# Module quiz: Introduction to the coding interview
+
+![screencapture-coursera-org-learn-coding-interview-preparation-exam-GaeSe-module-quiz-introduction-to-the-coding-interview-view-attempt-2023-02-12-07_26_48.png](Module%20quiz%20Introduction%20to%20the%20coding%20interview%20d2ba0c8fd5ce4c5cb092aa6c72194263/screencapture-coursera-org-learn-coding-interview-preparation-exam-GaeSe-module-quiz-introduction-to-the-coding-interview-view-attempt-2023-02-12-07_26_48.png)

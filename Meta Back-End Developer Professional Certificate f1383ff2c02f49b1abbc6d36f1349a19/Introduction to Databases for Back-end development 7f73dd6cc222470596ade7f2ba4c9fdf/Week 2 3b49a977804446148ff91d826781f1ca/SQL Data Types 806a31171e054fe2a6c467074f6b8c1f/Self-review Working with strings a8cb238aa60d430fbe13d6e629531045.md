@@ -1,0 +1,3 @@
+# Self-review: Working with strings
+
+![screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-gVVB0-self-review-working-with-strings-attempt-2023-01-21-12_14_15.png](Self-review%20Working%20with%20strings%20a8cb238aa60d430fbe13d6e629531045/screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-gVVB0-self-review-working-with-strings-attempt-2023-01-21-12_14_15.png)

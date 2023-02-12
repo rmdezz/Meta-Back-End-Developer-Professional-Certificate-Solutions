@@ -1,0 +1,3 @@
+# Readiness Check: Did you set up the models?
+
+![screencapture-coursera-org-learn-back-end-developer-capstone-quiz-85dcL-readiness-check-did-you-set-up-the-models-view-attempt-2023-02-12-07_41_26.png](Readiness%20Check%20Did%20you%20set%20up%20the%20models%2034baa41d0acf4c1683fd295f1b04d30e/screencapture-coursera-org-learn-back-end-developer-capstone-quiz-85dcL-readiness-check-did-you-set-up-the-models-view-attempt-2023-02-12-07_41_26.png)

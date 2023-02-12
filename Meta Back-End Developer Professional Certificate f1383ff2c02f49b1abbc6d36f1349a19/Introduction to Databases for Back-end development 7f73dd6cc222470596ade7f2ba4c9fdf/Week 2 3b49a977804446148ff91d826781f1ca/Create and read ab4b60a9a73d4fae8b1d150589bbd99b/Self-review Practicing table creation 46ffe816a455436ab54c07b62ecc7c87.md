@@ -1,0 +1,3 @@
+# Self-review: Practicing table creation
+
+![screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-fvSb5-self-review-practicing-table-creation-attempt-2023-01-21-18_52_42.png](Self-review%20Practicing%20table%20creation%2046ffe816a455436ab54c07b62ecc7c87/screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-fvSb5-self-review-practicing-table-creation-attempt-2023-01-21-18_52_42.png)

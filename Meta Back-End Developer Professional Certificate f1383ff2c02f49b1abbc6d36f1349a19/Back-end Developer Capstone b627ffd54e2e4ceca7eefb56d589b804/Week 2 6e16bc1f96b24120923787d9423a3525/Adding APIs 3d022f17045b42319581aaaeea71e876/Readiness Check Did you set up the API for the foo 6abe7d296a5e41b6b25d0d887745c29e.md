@@ -1,0 +1,3 @@
+# Readiness Check: Did you set up the API for the food menu?
+
+![screencapture-coursera-org-learn-back-end-developer-capstone-quiz-aDlj1-readiness-check-did-you-set-up-the-api-for-the-food-menu-view-attempt-2023-02-12-07_42_11.png](Readiness%20Check%20Did%20you%20set%20up%20the%20API%20for%20the%20foo%206abe7d296a5e41b6b25d0d887745c29e/screencapture-coursera-org-learn-back-end-developer-capstone-quiz-aDlj1-readiness-check-did-you-set-up-the-api-for-the-food-menu-view-attempt-2023-02-12-07_42_11.png)

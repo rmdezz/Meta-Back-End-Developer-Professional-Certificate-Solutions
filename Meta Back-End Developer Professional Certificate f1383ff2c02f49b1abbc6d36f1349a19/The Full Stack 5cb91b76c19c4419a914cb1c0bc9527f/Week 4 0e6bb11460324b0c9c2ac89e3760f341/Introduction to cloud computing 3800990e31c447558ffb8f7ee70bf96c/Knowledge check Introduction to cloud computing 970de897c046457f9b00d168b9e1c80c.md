@@ -1,0 +1,3 @@
+# Knowledge check: Introduction to cloud computing
+
+![screencapture-coursera-org-learn-the-full-stack-quiz-A4HFS-knowledge-check-introduction-to-cloud-computing-view-attempt-2023-02-12-08_06_02.png](Knowledge%20check%20Introduction%20to%20cloud%20computing%20970de897c046457f9b00d168b9e1c80c/screencapture-coursera-org-learn-the-full-stack-quiz-A4HFS-knowledge-check-introduction-to-cloud-computing-view-attempt-2023-02-12-08_06_02.png)

@@ -1,0 +1,3 @@
+# Knowledge check: Web server environments
+
+![screencapture-coursera-org-learn-the-full-stack-quiz-kGZAI-knowledge-check-web-server-environments-view-attempt-2023-02-12-08_05_37.png](Knowledge%20check%20Web%20server%20environments%20dcd9061b9fd74d89a8b3dfdee4293086/screencapture-coursera-org-learn-the-full-stack-quiz-kGZAI-knowledge-check-web-server-environments-view-attempt-2023-02-12-08_05_37.png)

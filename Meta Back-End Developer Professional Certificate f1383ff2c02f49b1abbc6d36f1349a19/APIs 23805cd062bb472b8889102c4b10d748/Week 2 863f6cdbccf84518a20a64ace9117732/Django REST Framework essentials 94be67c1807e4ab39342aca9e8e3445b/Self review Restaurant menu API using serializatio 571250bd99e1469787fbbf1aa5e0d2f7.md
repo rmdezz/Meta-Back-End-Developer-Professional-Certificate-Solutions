@@ -1,0 +1,3 @@
+# Self review: Restaurant menu API using serialization
+
+![screencapture-coursera-org-learn-apis-quiz-NBuPI-self-review-restaurant-menu-api-using-serialization-view-attempt-2023-02-12-09_55_08.png](Self%20review%20Restaurant%20menu%20API%20using%20serializatio%20571250bd99e1469787fbbf1aa5e0d2f7/screencapture-coursera-org-learn-apis-quiz-NBuPI-self-review-restaurant-menu-api-using-serialization-view-attempt-2023-02-12-09_55_08.png)

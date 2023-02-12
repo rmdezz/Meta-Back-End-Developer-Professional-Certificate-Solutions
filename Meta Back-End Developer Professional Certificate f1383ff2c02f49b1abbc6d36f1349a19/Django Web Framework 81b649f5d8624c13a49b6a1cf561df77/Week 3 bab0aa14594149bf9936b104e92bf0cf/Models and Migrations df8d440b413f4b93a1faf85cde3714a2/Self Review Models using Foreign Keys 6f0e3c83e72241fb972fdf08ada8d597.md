@@ -1,0 +1,3 @@
+# Self Review: Models using Foreign Keys
+
+![screencapture-coursera-org-learn-django-web-framework-quiz-OAMgd-self-review-models-using-foreign-keys-view-attempt-2023-02-12-10_33_19.png](Self%20Review%20Models%20using%20Foreign%20Keys%206f0e3c83e72241fb972fdf08ada8d597/screencapture-coursera-org-learn-django-web-framework-quiz-OAMgd-self-review-models-using-foreign-keys-view-attempt-2023-02-12-10_33_19.png)

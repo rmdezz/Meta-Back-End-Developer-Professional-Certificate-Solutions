@@ -1,0 +1,3 @@
+# Readiness Check: Did you set up the Git repository?
+
+![screencapture-coursera-org-learn-back-end-developer-capstone-quiz-1t0FK-readiness-check-did-you-set-up-the-git-repository-view-attempt-2023-02-12-07_35_56.png](Readiness%20Check%20Did%20you%20set%20up%20the%20Git%20repository%20fa89dafdfa3c4fd6bdd38b9b6187aa7b/screencapture-coursera-org-learn-back-end-developer-capstone-quiz-1t0FK-readiness-check-did-you-set-up-the-git-repository-view-attempt-2023-02-12-07_35_56.png)

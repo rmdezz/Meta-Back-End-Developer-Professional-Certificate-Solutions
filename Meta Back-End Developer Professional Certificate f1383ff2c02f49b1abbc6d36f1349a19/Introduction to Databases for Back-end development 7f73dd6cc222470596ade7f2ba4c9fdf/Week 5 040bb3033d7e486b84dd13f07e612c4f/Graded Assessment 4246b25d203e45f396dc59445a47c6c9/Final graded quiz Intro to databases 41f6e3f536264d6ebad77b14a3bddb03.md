@@ -1,0 +1,3 @@
+# Final graded quiz: Intro to databases
+
+![screencapture-coursera-org-learn-intro-to-databases-back-end-development-exam-zxxQm-final-graded-quiz-intro-to-databases-view-attempt-2023-02-12-11_06_23.png](Final%20graded%20quiz%20Intro%20to%20databases%2041f6e3f536264d6ebad77b14a3bddb03/screencapture-coursera-org-learn-intro-to-databases-back-end-development-exam-zxxQm-final-graded-quiz-intro-to-databases-view-attempt-2023-02-12-11_06_23.png)

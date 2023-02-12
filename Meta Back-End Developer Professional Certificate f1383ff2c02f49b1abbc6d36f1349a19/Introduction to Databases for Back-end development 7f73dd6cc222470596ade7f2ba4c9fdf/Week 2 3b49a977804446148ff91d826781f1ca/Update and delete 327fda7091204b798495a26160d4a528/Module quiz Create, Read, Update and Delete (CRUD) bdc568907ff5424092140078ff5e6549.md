@@ -1,0 +1,3 @@
+# Module quiz: Create, Read, Update and Delete (CRUD) Operations
+
+![screencapture-coursera-org-learn-intro-to-databases-back-end-development-exam-9EHu4-module-quiz-create-read-update-and-delete-crud-operations-attempt-2023-01-21-20_29_13.png](Module%20quiz%20Create,%20Read,%20Update%20and%20Delete%20(CRUD)%20bdc568907ff5424092140078ff5e6549/screencapture-coursera-org-learn-intro-to-databases-back-end-development-exam-9EHu4-module-quiz-create-read-update-and-delete-crud-operations-attempt-2023-01-21-20_29_13.png)

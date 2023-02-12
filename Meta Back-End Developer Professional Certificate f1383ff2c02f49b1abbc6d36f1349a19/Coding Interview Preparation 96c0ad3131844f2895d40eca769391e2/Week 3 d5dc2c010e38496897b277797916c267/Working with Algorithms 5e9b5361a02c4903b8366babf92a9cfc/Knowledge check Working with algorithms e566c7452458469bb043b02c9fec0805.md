@@ -1,0 +1,3 @@
+# Knowledge check: Working with algorithms
+
+![screencapture-coursera-org-learn-coding-interview-preparation-quiz-W1w5F-knowledge-check-working-with-algorithms-view-attempt-2023-02-12-07_31_56.png](Knowledge%20check%20Working%20with%20algorithms%20e566c7452458469bb043b02c9fec0805/screencapture-coursera-org-learn-coding-interview-preparation-quiz-W1w5F-knowledge-check-working-with-algorithms-view-attempt-2023-02-12-07_31_56.png)

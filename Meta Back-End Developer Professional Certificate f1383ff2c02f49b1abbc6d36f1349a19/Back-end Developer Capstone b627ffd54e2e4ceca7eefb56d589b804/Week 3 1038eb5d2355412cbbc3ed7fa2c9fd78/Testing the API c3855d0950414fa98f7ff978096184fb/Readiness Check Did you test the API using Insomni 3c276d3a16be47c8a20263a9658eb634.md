@@ -1,0 +1,3 @@
+# Readiness Check: Did you test the API using Insomnia?
+
+![screencapture-coursera-org-learn-back-end-developer-capstone-quiz-ioSPH-readiness-check-did-you-test-the-api-using-insomnia-view-attempt-2023-02-12-07_46_04.png](Readiness%20Check%20Did%20you%20test%20the%20API%20using%20Insomni%203c276d3a16be47c8a20263a9658eb634/screencapture-coursera-org-learn-back-end-developer-capstone-quiz-ioSPH-readiness-check-did-you-test-the-api-using-insomnia-view-attempt-2023-02-12-07_46_04.png)

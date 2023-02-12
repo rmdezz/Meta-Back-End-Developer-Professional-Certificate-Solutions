@@ -1,0 +1,3 @@
+# Knowledge check: Web Frameworks and MVT
+
+![screencapture-coursera-org-learn-django-web-framework-quiz-S3YA7-knowledge-check-web-frameworks-and-mvt-attempt-2023-01-23-18_31_54.png](Knowledge%20check%20Web%20Frameworks%20and%20MVT%2072f11c1c7d094800b749bac8f038f5a0/screencapture-coursera-org-learn-django-web-framework-quiz-S3YA7-knowledge-check-web-frameworks-and-mvt-attempt-2023-01-23-18_31_54.png)

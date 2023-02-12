@@ -1,0 +1,3 @@
+# Knowledge check: Create, insert and select
+
+![screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-cd2k7-knowledge-check-create-insert-and-select-attempt-2023-01-21-18_56_30.png](Knowledge%20check%20Create,%20insert%20and%20select%20b8e4e556baaa465eb2dafb2056ab1da5/screencapture-coursera-org-learn-intro-to-databases-back-end-development-quiz-cd2k7-knowledge-check-create-insert-and-select-attempt-2023-01-21-18_56_30.png)

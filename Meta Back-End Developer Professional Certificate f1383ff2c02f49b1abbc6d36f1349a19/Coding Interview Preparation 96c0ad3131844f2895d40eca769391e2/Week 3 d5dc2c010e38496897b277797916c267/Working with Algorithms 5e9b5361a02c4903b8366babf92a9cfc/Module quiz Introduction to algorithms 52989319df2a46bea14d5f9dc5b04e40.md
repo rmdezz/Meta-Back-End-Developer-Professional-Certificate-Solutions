@@ -1,0 +1,3 @@
+# Module quiz: Introduction to algorithms
+
+![screencapture-coursera-org-learn-coding-interview-preparation-exam-zpCjE-module-quiz-introduction-to-algorithms-view-attempt-2023-02-12-07_32_23.png](Module%20quiz%20Introduction%20to%20algorithms%2052989319df2a46bea14d5f9dc5b04e40/screencapture-coursera-org-learn-coding-interview-preparation-exam-zpCjE-module-quiz-introduction-to-algorithms-view-attempt-2023-02-12-07_32_23.png)

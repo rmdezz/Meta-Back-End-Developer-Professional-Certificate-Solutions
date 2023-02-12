@@ -1,0 +1,3 @@
+# Self-review: Creating your first project and app
+
+![screencapture-coursera-org-learn-django-web-framework-quiz-zLBs7-self-review-creating-your-first-project-and-app-view-attempt-2023-02-12-10_21_32.png](Self-review%20Creating%20your%20first%20project%20and%20app%20b042fe8cab934d78882d962ddc566d2f/screencapture-coursera-org-learn-django-web-framework-quiz-zLBs7-self-review-creating-your-first-project-and-app-view-attempt-2023-02-12-10_21_32.png)

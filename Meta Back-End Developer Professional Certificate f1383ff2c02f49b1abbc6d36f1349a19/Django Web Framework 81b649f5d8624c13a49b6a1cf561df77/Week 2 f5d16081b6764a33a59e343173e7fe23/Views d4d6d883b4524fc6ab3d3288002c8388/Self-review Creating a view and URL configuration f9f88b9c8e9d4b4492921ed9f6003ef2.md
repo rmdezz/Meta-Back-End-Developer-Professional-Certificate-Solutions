@@ -1,0 +1,3 @@
+# Self-review: Creating a view and URL configuration
+
+![screencapture-coursera-org-learn-django-web-framework-quiz-2wp7P-self-review-creating-a-view-and-url-configuration-view-attempt-2023-01-24-16_21_55.png](Self-review%20Creating%20a%20view%20and%20URL%20configuration%20f9f88b9c8e9d4b4492921ed9f6003ef2/screencapture-coursera-org-learn-django-web-framework-quiz-2wp7P-self-review-creating-a-view-and-url-configuration-view-attempt-2023-01-24-16_21_55.png)
